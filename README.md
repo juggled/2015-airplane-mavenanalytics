@@ -39,6 +39,8 @@ pip3 install -r requirements.txt
  ┃ ┣ 📜catboost.ipynb
  ┃ ┣ 📜main.ipynb
  ┃ ┗ 📜tree.ipynb
+ ┣ 📜.gitignore
+ ┣ 📜ComparisonBetweenCatBoost&RandomForestClassifier.jpg
  ┣ 📜README.md
  ┗ 📜requirements.txt
  ```
@@ -56,6 +58,8 @@ pip3 install -r requirements.txt
         - File to answer questions
     - tree.ipynb
         - File to run RandomForestClassifier
+- ComparisonBetweenCatBoost&RandomForestClassifier.jpg
+    - Comparison between Cat Boost & Random Forest Classifier models
 - README.md
     - The current file
 - requirements.txt
