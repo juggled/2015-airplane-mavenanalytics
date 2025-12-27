@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 3. Download ALL CSVs from <a>mavenanalytics.io/data-playground/airline-flight-delays</a>
 4. Download random_forest-Model.joblib from releases section as this was removed due to file limits
 4. Launch Jupyter to open the notebooks
-5. There are three notebooks. The first notebook is main.ipynb , which answers the questions from mavenanalytics. The second is tree.ipynb , which is a random forest classifier to guess if it's a delayed flight. The third is catboost.ipynb to guess if it's a delayed flight via catboost. The latter two were run in Google Colab with the T4-GPU and then exported.
+5. There are four notebooks. The first notebook is main.ipynb , which answers the questions from mavenanalytics. The second is tree.ipynb , which is a random forest classifier to guess if it's a delayed flight. The third is catboost.ipynb to guess if it's a delayed flight via catboost. The latter two were run in Google Colab with the T4-GPU and then exported. The fourth is a comparison between the two models via a bar graph.
 ---
 ## Explanation of files
 ### File directory
