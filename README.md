@@ -36,6 +36,7 @@ pip3 install -r requirements.txt
  ┃ ┣ 📜catboost_model
  ┃ ┗ 📜random_forest_model.joblib # Removed due to size limits, please download from releases
  ┣ 📂src
+ ┃ ┣ 📜comparison.ipynb
  ┃ ┣ 📜catboost.ipynb
  ┃ ┣ 📜main.ipynb
  ┃ ┗ 📜tree.ipynb
@@ -52,6 +53,8 @@ pip3 install -r requirements.txt
     - catboost_model is model made by catboost
     - random_forest_model.joblib is model made by RandomForestClassifier
 - src
+    - comparison.ipynb
+        - Compares the two different models in an interactive bar graph
     - catboost.ipynb
         - File to run Catboost
     - main.ipynb
